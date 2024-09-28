@@ -65,6 +65,6 @@ CSS
 
 ## Forventet resultat
 
-![Image_1]()
+![Image_1](Skjermbilde%202024-09-28%20081523.png)
 
 ## Takk for oppmerksomhet og Happy coding!!!

@@ -2,7 +2,7 @@
 <h1 align="center">Netflix CSS-6</h1>
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://kiskisbarsik.github.io/Netflix/">
       Lenken til prosjektet
     </a>
   </h3>

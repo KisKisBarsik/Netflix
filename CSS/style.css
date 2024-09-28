@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(./Images/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.45);
+    color: white;
+    margin: 20px 40px;
+    padding: 30px;
+}
+
+.cont {
+    text-align: center;
+}
+
+.text0 {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text1 {
+    color: red;
+}
+
+.text2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px 0px;
+}
+
+.cont1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont2 {
+    text-align: start;
+    background: rgba(0, 0, 0, 0.75);
+    width: 75%;
+    padding: 20px 40px;
+}
+
+
+.name {
+    padding-bottom: 15px;
+}
+
+.name2 {
+    border: none;
+    outline: none;
+    padding: 13px 7px;
+    width: 97%;
+}
+
+.age {
+    padding: 15px 0px;
+}
+
+.age2 {
+    border: none;
+    outline: none;
+    padding: 13px 7px;
+    width: 97%;
+}
+
+.email {
+    padding: 15px 0px;
+}
+
+.email2 {
+    border: none;
+    outline: none;
+    padding: 13px 7px;
+    width: 97%;
+}
+
+.CT {
+    padding: 15px 0px;
+}
+
+.select {
+    border: none;
+    outline: none;
+    padding: 13px 7px;
+    width: 97%;
+}
+
+.MT {
+    padding: 17px 0px 7px 0px;
+}
+
+label {
+    display: flex;
+}
+
+.p1 {
+    padding-left: 5px;
+}
+
+.gender0 {
+    padding: 25px 0px 5px 0px;
+}
+
+.gender {
+    padding-bottom: 10px;
+}
+
+.gender2 {
+    padding-left: 5px;
+}
+
+.feedback {
+    padding: 25px 0px 10px 0px;
+}
+
+.text3 {
+    border: none;
+    outline: none;
+    padding: 15px 15px 80px 15px;
+    width: 82%;
+    margin-bottom: 35px;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 34, 0);
+    text-decoration: none;
+    padding: 12px;
+    width: 200px;
+    border-radius: 30px;
+    color: white;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+}

@@ -49,7 +49,7 @@ HTML
 CSS 
 - margin, pading, background-image, background-size, background-repeat, display, flex-direction, justify-content, align-items, background, color, margin, padding, text-align, font-size, font-weight, font-family, width, padding-bottom, border, outline, padding-left, margin-bottom, text-decoration, border-radius elementene jeg har brukt i CSS coden.
 
--Det er lenkene som kanskje kan hjelpe =)
+-Det er lenkene som kanskje kan hjelpe
 
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/

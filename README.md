@@ -16,6 +16,7 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
+- [Resultat](#forventet-resultat)
 
 <!-- OVERVIEW -->
 ## Overview
